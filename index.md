@@ -10,3 +10,5 @@ I've learned how to.
 
 
 Next I'm going to publish a WebPage!
+
+![](https://live.staticflickr.com/65535/52526774333_40411e8273_b.jpg)
