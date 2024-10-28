@@ -16,3 +16,7 @@ Routes I climbed whilst at Stanage
 ## Chris Climbing at Curbar
 
 ![](https://live.staticflickr.com/65535/54065058160_69925877a8_k.jpg)
+
+## An example of a picture in this repository
+
+![](pink_floyd_another_brick_in_the_wall.png)
